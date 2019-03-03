@@ -1,0 +1,5 @@
+ami = ""
+instance_type = ""
+key_name = ""
+Name = ""
+subnet_id = ""

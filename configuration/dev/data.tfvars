@@ -1,0 +1,5 @@
+ami = "ami-0de7daa7385332688"
+instance_type = "t2.micro"
+key_name = "terraform-key"
+Name = "Consul"
+subnet_id = "subnet-59fa3715"
