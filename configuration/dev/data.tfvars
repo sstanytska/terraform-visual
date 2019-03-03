@@ -3,3 +3,7 @@ instance_type = "t2.micro"
 key_name = "terraform-key"
 Name = "Consul"
 subnet_id = "subnet-59fa3715"
+Env = "Dev"
+Created_by = "Stanytska"
+Dept = "IT"
+count = 1
