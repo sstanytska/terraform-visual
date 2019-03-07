@@ -1,5 +1,5 @@
 output "VPC" {
-  value = "${aws_vpc.dev,id}"
+  value = "${aws_vpc.dev.id}"
 }
 
 output "SUBNET" {
