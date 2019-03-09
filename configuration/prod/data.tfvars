@@ -1,5 +1,11 @@
-ami = ""
-instance_type = ""
-key_name = ""
-Name = ""
-subnet_id = ""
+ami            = "ami-0de7daa7385332688"
+instance_type  = "t2.micro"
+key_name       = "terraform-key"
+Name           = "Consul"
+subnet_id      = "subnet-59fa3715"
+Env            = "Prod"
+Created_by     = "Stanytska"
+Dept           = "IT"
+count          = 1
+min_size       = 3
+max_size       = 6
