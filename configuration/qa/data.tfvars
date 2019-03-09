@@ -8,4 +8,4 @@ Created_by     = "Stanytska"
 Dept           = "IT"
 count          = 1
 min_size       = 3
-max_size       = 
+max_size       = 6
